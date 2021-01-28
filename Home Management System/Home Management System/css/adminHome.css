@@ -1,0 +1,28 @@
+
+h1{
+</color:black>;
+  margin:auto;
+  padding:15px;
+  font-size:50px
+}
+.do
+{
+  max-width: 350px;
+  border-radius: 5px;
+  margin: auto;
+  background: rgba(0,0,0,0.3);
+  /* box-sizing: border-box; */
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 20px;
+  /*margin-top: 10px;*/
+}
+.do[type="submit"]:hover
+{
+  background:#efed40;
+  color:#262626;
+}
+  }
+ 
